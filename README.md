@@ -8,6 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=FueledAmp)
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FueledAmp&show_icons=true&count_private=true&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FueledAmp&layout=compact&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=i2q&show_icons=true&count_private=true&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2q&layout=compact&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117" height="180">
  </p>
