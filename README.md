@@ -5,5 +5,8 @@
 - 🎂: I was Born at the 8th of October
 - ⌚: I am Foucusing on Learning Ai and Machine Learning
 - 📫: The best way to reach me is through [Discord](https://discord.gg/vPtydfpguB) or Email: abdullah@jauish.com.
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="JS" src="https://img.shields.io/badge/Javascript-JS-yellow"/>
+<img alt="NJS" src="https://img.shields.io/badge/Node.js-Njs-brightgreen"/>
+<img alt="FLUTTER" src="https://img.shields.io/badge/Dart-Flutter-blue"/>
+<img alt="WEB" src="https://img.shields.io/badge/HTML-Web-important"/>
+<img alt="GO" src="https://img.shields.io/badge/GO-Golang-9cf"/>
