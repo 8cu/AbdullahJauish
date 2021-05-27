@@ -6,7 +6,8 @@
 - ⌚: I am Foucusing on Learning Ai and Machine Learning
 - 📫: The best way to reach me is through [Discord](https://discord.gg/vPtydfpguB) or Email: abdullah@jauish.com.
 
-<img alt="JS" src="https://img.shields.io/badge/Javascript-JS-yellow"/> <img alt="NJS" src="https://img.shields.io/badge/Node.js-Njs-brightgreen"/> <img alt="FLUTTER" src="https://img.shields.io/badge/Dart-Flutter-blue"/> <img alt="WEB" src="https://img.shields.io/badge/HTML-Web-important"/> <img alt="GO" src="https://img.shields.io/badge/GO-Golang-9cf"/>
+<img alt="JS" src="https://img.shields.io/badge/Javascript-JS-yellow"/> <img alt="NJS" src="https://img.shields.io/badge/Node.js-Njs-brightgreen"/> <img alt="FLUTTER" src="https://img.shields.io/badge/Dart-Flutter-blue"/> <img alt="WEB" src="https://img.shields.io/badge/HTML-Web-important"/> <img alt="GO" src="https://img.shields.io/badge/GO-Golang-9cf"/> 
+<img alt="GITHUB" src="https://img.shields.io/badge/GitHub-Repository-blueviolet"/>
 
 
 ![AbdullahJauish's GitHub stats](https://github-readme-stats.vercel.app/api?username=i2q&show_icons=true&theme=prussian)
