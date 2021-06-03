@@ -1,4 +1,4 @@
-## Hi People! 👋
+## Hello Everyone 🕊️
 
 - 👨‍💻: I am 14-years-old Software Engineer at Daam&Ataa
 - 💻: I can Code JavaScript, Node.js, Dart, Flutter, HTML, Golang 
