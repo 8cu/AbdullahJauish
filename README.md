@@ -4,9 +4,50 @@
 - 💻: I can Code Python, JavaScript, Node.js, Dart, Flutter, HTML, Golang 
 - 🎂: I was Born at the 8th of October
 - ⌚: I am Foucusing on Learning Ai and Machine Learning
-- 📫: The best way to reach me is through [Discord](https://discord.gg/vPtydfpguB) or Email: abdullah@jauish.com.
+- 📫: The best way to reach me is through Email: abdullah@jauish.com.
 
-Stats:
+- I love making Projects and Create new and Useful Ideas to the Community
+- Currently Learning Python and Automation.
+
+# Career 
+
+a Software Engineer at Daam And Ataa Company
+Founder of:<br>
+Awosm, Qjects, Voltana, ArchBot, Catuzic, TagBot
+
+
+# Learned
+
+Web:  
+  - HTML
+  - CSS
+  - Javascript
+  - Node.js
+      Node.js Library's:
+        - Discord.js
+        - Electron.js
+        - Angular.js
+        - Express.js
+        - React.js
+
+Mobile:
+  - Flutter
+
+
+Databases:
+  - MongoDB
+  - mySQL
+  - JSON
+  - YAML
+
+Programming Languages:
+  - Dart
+  - Python
+  - C#
+  - Typescript
+
+
+# Stats:
 
 
 <img alt="JS" src="https://img.shields.io/badge/Javascript-JS-yellow"/> <img alt="NJS" src="https://img.shields.io/badge/Node.js-Njs-brightgreen"/> <img alt="FLUTTER" src="https://img.shields.io/badge/Dart-Flutter-blue"/> <img alt="WEB" src="https://img.shields.io/badge/HTML-Web-important"/> <img alt="GO" src="https://img.shields.io/badge/GO-Golang-9cf"/> <img alt="PY" src="https://img.shields.io/badge/Python-Ai-blue"/>
