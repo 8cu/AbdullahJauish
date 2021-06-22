@@ -6,41 +6,41 @@
 - ⌚: I am Foucusing on Learning Ai and Machine Learning
 - 📫: The best way to reach me is through Email: abdullah@jauish.com.
 
-- I love making Projects and Create new and Useful Ideas to the Community
+- I love making Projects and Create new and Useful Ideas to the Community<br>
 - Currently Learning Python and Automation.
 
 # Career 
 
-a Software Engineer at Daam And Ataa Company
+a Software Engineer at Daam And Ataa Company.<br>
 Founder of:<br>
 Awosm, Qjects, Voltana, ArchBot, Catuzic, TagBot
 
 
 # Learned
 
-Web:  
+# Web:  
   - HTML
   - CSS
   - Javascript
-  - Node.js
-      Node.js Library's:
-        - Discord.js
-        - Electron.js
-        - Angular.js
-        - Express.js
-        - React.js
+  - Node.js<br>
+   # Node.js Library's:<br>
+   - Discord.js<br>
+   - Electron.js<br>
+   - Angular.js<br>
+   - Express.js<br>
+   - React.js
 
-Mobile:
+# Mobile:
   - Flutter
 
 
-Databases:
+# Databases:
   - MongoDB
   - mySQL
   - JSON
   - YAML
 
-Programming Languages:
+# Programming Languages:
   - Dart
   - Python
   - C#
