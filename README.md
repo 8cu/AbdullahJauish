@@ -57,6 +57,6 @@ and talk professionally about my projects.
 <img alt="JS" src="https://img.shields.io/badge/Javascript-JS-yellow"/> <img alt="NJS" src="https://img.shields.io/badge/Node.js-Njs-brightgreen"/> <img alt="FLUTTER" src="https://img.shields.io/badge/Dart-Flutter-blue"/> <img alt="WEB" src="https://img.shields.io/badge/HTML-Web-important"/> <img alt="GO" src="https://img.shields.io/badge/GO-Golang-9cf"/> <img alt="PY" src="https://img.shields.io/badge/Python-Ai-blue"/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=i2q&theme=github) 
-<img width=500 src="https://discord.c99.nl/widget/theme-4/805459936087244810.png"/>![AbdullahJauish's GitHub stats](https://github-readme-stats.vercel.app/api?username=i2q&show_icons=true&theme=prussian)
+![AbdullahJauish's GitHub stats](https://github-readme-stats.vercel.app/api?username=i2q&show_icons=true&theme=prussian)<img width=500 src="https://discord.c99.nl/widget/theme-4/805459936087244810.png"/>
 
 
