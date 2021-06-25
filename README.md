@@ -8,14 +8,14 @@
 - 🪔: I love making Projects and Create new and Useful Ideas and Tools to the Community<br>
 - 🎭: Currently Learning Python and Automation.
 
-# Career 
+# Career 💾
 
 a Software Engineer at Daam And Ataa Company.<br>
 Founder of:<br>
 Awosm, Qjects, Voltana, ArchBot, Catuzic, TagBot
 
 
-# Learned
+# Learned 📈
 In 6 years of Programming and Developing Stuff<br>
 I've Learned a lot of things about programming, project management<br>
 hosting, financial management, choosing the correct team members<br>
@@ -51,7 +51,7 @@ and talk professionally about my projects.
   - Typescript
 
 
-# Stats:
+# Stats 🧾
 
 
 <img alt="JS" src="https://img.shields.io/badge/Javascript-JS-yellow"/> <img alt="NJS" src="https://img.shields.io/badge/Node.js-Njs-brightgreen"/> <img alt="FLUTTER" src="https://img.shields.io/badge/Dart-Flutter-blue"/> <img alt="WEB" src="https://img.shields.io/badge/HTML-Web-important"/> <img alt="GO" src="https://img.shields.io/badge/GO-Golang-9cf"/> <img alt="PY" src="https://img.shields.io/badge/Python-Ai-blue"/>
