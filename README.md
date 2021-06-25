@@ -1,6 +1,6 @@
 ## Hello Everyone 🕊️
 
-- 👨‍💻: I am 14-years-old Software Engineer at Daam Ataa
+- 👨‍💻: I am 14-years-old Software Engineer at Skylights
 - 💻: I can Code Python, JavaScript, Node.js, Dart, Flutter, HTML, Golang 
 - 🎂: I was Born at the 8th of October
 - ⌚: I am Foucusing on Learning Ai and Machine Learning
@@ -10,7 +10,7 @@
 
 # Career 💾
 
-a Software Engineer at Daam And Ataa Company.<br>
+a Software Engineer at Daam And Ataa & Skylights Company.<br>
 Founder of:<br>
 Awosm, Qjects, Voltana, ArchBot, Catuzic, TagBot
 
