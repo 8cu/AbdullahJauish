@@ -5,8 +5,8 @@
 - 🎂: I was Born at the 8th of October
 - ⌚: I am Foucusing on Learning Ai and Machine Learning
 - 📫: The best way to reach me is through Email: abdullah@jauish.com.
-- I love making Projects and Create new and Useful Ideas and Tools to the Community<br>
-- Currently Learning Python and Automation.
+- 🪔: I love making Projects and Create new and Useful Ideas and Tools to the Community<br>
+- 🎭: Currently Learning Python and Automation.
 
 # Career 
 
@@ -16,6 +16,11 @@ Awosm, Qjects, Voltana, ArchBot, Catuzic, TagBot
 
 
 # Learned
+In 6 years of Programming and Developing Stuff<br>
+I've Learned a lot of things about programming, project management<br>
+hosting, financial management, choosing the correct team members<br>
+and talk professionally about my projects.
+
 
 # Web:  
   - HTML
