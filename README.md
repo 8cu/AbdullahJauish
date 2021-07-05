@@ -1,6 +1,6 @@
 ## Hello Everyone 🕊️
 
-- 👨‍💻: I am 14-years-old Software Engineer at Skylights
+- 👨‍💻: I am a Software Engineer at Skylights, I Enjoy Coding Stuff
 - 💻: I can Code Python, JavaScript, Node.js, Dart, Flutter, HTML, Golang 
 - 🎂: I was Born at the 8th of October
 - ⌚: I am Foucusing on Learning Ai and Machine Learning
