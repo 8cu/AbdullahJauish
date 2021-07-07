@@ -1,9 +1,9 @@
-## Hello Everyone 🕊️
+## Hello World 💻
 
-- 👨‍💻: I am a Software Engineer at Skylights, I Enjoy Coding Stuff
-- 💻: I can Code Python, JavaScript, Node.js, Dart, Flutter, HTML, CSS, Golang 
-- 🎂: I was Born at the 8th of October
-- 📫: The best way to reach me is through Email: abdullah@jauish.com.
+🙆‍♂️ Programmer<br>
+🛌 Sleeping, Coding, Gaming<br>
+💻 Websites, Bots, Ai, Mobile Apps<br> 
+🙏 https://abdullah.jauish.com
 
 <!--
 # Learned 📈
